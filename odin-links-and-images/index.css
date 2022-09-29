@@ -1,0 +1,11 @@
+body {
+    background: darkred;
+}
+img {
+    width: 200px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
